@@ -1,2 +1,2 @@
-install:
-    chmod +x rpg-rpg.py
+%.py:
+	@chmod +x rpg.py
