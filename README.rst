@@ -10,6 +10,7 @@ Requirements
 Install
 -------
 To install, simply:
+
 .. code:: bash
 
    git clone https://Eyv-cyber/cool-rpg ~/cool-rpg
